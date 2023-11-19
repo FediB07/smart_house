@@ -10,7 +10,7 @@ class tempcontroller extends StatefulWidget {
   @override
   State<tempcontroller> createState() => _tempcontrollerState();
 }
-
+ 
 class _tempcontrollerState extends State<tempcontroller> {
   final DatabaseReference _databaseReference =
       FirebaseDatabase.instance.ref();
