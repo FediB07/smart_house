@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995877004434",
+    "project_id": "smart-home-8a244",
+    "storage_bucket": "smart-home-8a244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995877004434:android:5bd772a60eb645e8a1724b",
+        "android_client_info": {
+          "package_name": "com.iset.smarthousesem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-fqYy_vCP8JvfRBjxPWPT30p1B-Au2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
